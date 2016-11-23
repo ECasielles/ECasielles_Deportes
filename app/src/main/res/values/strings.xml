@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">enriquecasielles_deportes</string>
+    <string name="txvMainTitle">Selecciona los deportes que te gustan y pulsa \'Aceptar\'</string>
+    <string name="btnMainOk">Aceptar</string>
+    <string name="txvItemSportName">DefaultSportName</string>
+    <string name="defaultSportName">DefaultSportName</string>
+</resources>
